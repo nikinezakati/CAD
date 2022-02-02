@@ -1,0 +1,60 @@
+xst -intstyle ise -ifn "C:/Users/Arshia/Desktop/nik/decoder3x8/decoder3x8.xst" -ofn "C:/Users/Arshia/Desktop/nik/decoder3x8/decoder3x8.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s400-pq208-4 decoder3x8.ngc decoder3x8.ngd  
+map -intstyle ise -p xc3s400-pq208-4 -cm area -ir off -pr off -c 100 -o decoder3x8_map.ncd decoder3x8.ngd decoder3x8.pcf 
+par -w -intstyle ise -ol high -t 1 decoder3x8_map.ncd decoder3x8.ncd decoder3x8.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml decoder3x8.twx decoder3x8.ncd -o decoder3x8.twr decoder3x8.pcf 
+xst -intstyle ise -ifn "C:/Users/Arshia/Desktop/nik/decoder3x8/decoder3x8.xst" -ofn "C:/Users/Arshia/Desktop/nik/decoder3x8/decoder3x8.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s400-pq208-4 decoder3x8.ngc decoder3x8.ngd  
+map -intstyle ise -p xc3s400-pq208-4 -cm area -ir off -pr off -c 100 -o decoder3x8_map.ncd decoder3x8.ngd decoder3x8.pcf 
+par -w -intstyle ise -ol high -t 1 decoder3x8_map.ncd decoder3x8.ncd decoder3x8.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml decoder3x8.twx decoder3x8.ncd -o decoder3x8.twr decoder3x8.pcf 
+xst -intstyle ise -ifn "C:/Users/Arshia/Desktop/nik/decoder3x8/decoder3x8.xst" -ofn "C:/Users/Arshia/Desktop/nik/decoder3x8/decoder3x8.syr" 
+xst -intstyle ise -ifn "C:/Users/Arshia/Desktop/nik/decoder3x8/decoder3x8.xst" -ofn "C:/Users/Arshia/Desktop/nik/decoder3x8/decoder3x8.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s400-pq208-4 decoder3x8.ngc decoder3x8.ngd  
+map -intstyle ise -p xc3s400-pq208-4 -cm area -ir off -pr off -c 100 -o decoder3x8_map.ncd decoder3x8.ngd decoder3x8.pcf 
+par -w -intstyle ise -ol high -t 1 decoder3x8_map.ncd decoder3x8.ncd decoder3x8.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml decoder3x8.twx decoder3x8.ncd -o decoder3x8.twr decoder3x8.pcf 
+xst -intstyle ise -ifn "C:/Users/Arshia/Desktop/nik/decoder3x8/decoder3x8.xst" -ofn "C:/Users/Arshia/Desktop/nik/decoder3x8/decoder3x8.syr" 
+xst -intstyle ise -ifn "C:/Users/Arshia/Desktop/nik/decoder3x8/decoder3x8.xst" -ofn "C:/Users/Arshia/Desktop/nik/decoder3x8/decoder3x8.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s400-pq208-4 decoder3x8.ngc decoder3x8.ngd  
+map -intstyle ise -p xc3s400-pq208-4 -cm area -ir off -pr off -c 100 -o decoder3x8_map.ncd decoder3x8.ngd decoder3x8.pcf 
+par -w -intstyle ise -ol high -t 1 decoder3x8_map.ncd decoder3x8.ncd decoder3x8.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml decoder3x8.twx decoder3x8.ncd -o decoder3x8.twr decoder3x8.pcf 
+xst -intstyle ise -ifn "C:/Users/Arshia/Desktop/nik/decoder3x8/decoder3x8.xst" -ofn "C:/Users/Arshia/Desktop/nik/decoder3x8/decoder3x8.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s400-pq208-4 decoder3x8.ngc decoder3x8.ngd  
+map -intstyle ise -p xc3s400-pq208-4 -cm area -ir off -pr off -c 100 -o decoder3x8_map.ncd decoder3x8.ngd decoder3x8.pcf 
+par -w -intstyle ise -ol high -t 1 decoder3x8_map.ncd decoder3x8.ncd decoder3x8.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml decoder3x8.twx decoder3x8.ncd -o decoder3x8.twr decoder3x8.pcf 
+xst -intstyle ise -ifn "C:/Users/Arshia/Desktop/nik/decoder3x8/decoder3x8.xst" -ofn "C:/Users/Arshia/Desktop/nik/decoder3x8/decoder3x8.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s400-pq208-4 decoder3x8.ngc decoder3x8.ngd  
+map -intstyle ise -p xc3s400-pq208-4 -cm area -ir off -pr off -c 100 -o decoder3x8_map.ncd decoder3x8.ngd decoder3x8.pcf 
+par -w -intstyle ise -ol high -t 1 decoder3x8_map.ncd decoder3x8.ncd decoder3x8.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml decoder3x8.twx decoder3x8.ncd -o decoder3x8.twr decoder3x8.pcf 
+xst -intstyle ise -ifn "C:/Users/Arshia/Desktop/nik/decoder3x8/decoder3x8.xst" -ofn "C:/Users/Arshia/Desktop/nik/decoder3x8/decoder3x8.syr" 
+xst -intstyle ise -ifn "C:/Users/Arshia/Desktop/nik/decoder3x8/decoder3x8.xst" -ofn "C:/Users/Arshia/Desktop/nik/decoder3x8/decoder3x8.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s400-pq208-4 decoder3x8.ngc decoder3x8.ngd  
+map -intstyle ise -p xc3s400-pq208-4 -cm area -ir off -pr off -c 100 -o decoder3x8_map.ncd decoder3x8.ngd decoder3x8.pcf 
+par -w -intstyle ise -ol high -t 1 decoder3x8_map.ncd decoder3x8.ncd decoder3x8.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml decoder3x8.twx decoder3x8.ncd -o decoder3x8.twr decoder3x8.pcf 
+xst -intstyle ise -ifn "C:/Users/Arshia/Desktop/nik/decoder3x8/decoder3x8.xst" -ofn "C:/Users/Arshia/Desktop/nik/decoder3x8/decoder3x8.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s400-pq208-4 decoder3x8.ngc decoder3x8.ngd  
+map -intstyle ise -p xc3s400-pq208-4 -cm area -ir off -pr off -c 100 -o decoder3x8_map.ncd decoder3x8.ngd decoder3x8.pcf 
+par -w -intstyle ise -ol high -t 1 decoder3x8_map.ncd decoder3x8.ncd decoder3x8.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml decoder3x8.twx decoder3x8.ncd -o decoder3x8.twr decoder3x8.pcf 
+xst -intstyle ise -ifn "C:/Users/Arshia/Desktop/nik/decoder3x8/decoder3x8.xst" -ofn "C:/Users/Arshia/Desktop/nik/decoder3x8/decoder3x8.syr" 
+xst -intstyle ise -ifn "C:/Users/Arshia/Desktop/nik/decoder3x8/decoder3x8.xst" -ofn "C:/Users/Arshia/Desktop/nik/decoder3x8/decoder3x8.syr" 
+xst -intstyle ise -ifn "C:/Users/Arshia/Desktop/nik/decoder3x8/decoder3x8.xst" -ofn "C:/Users/Arshia/Desktop/nik/decoder3x8/decoder3x8.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s400-pq208-4 decoder3x8.ngc decoder3x8.ngd  
+map -intstyle ise -p xc3s400-pq208-4 -cm area -ir off -pr off -c 100 -o decoder3x8_map.ncd decoder3x8.ngd decoder3x8.pcf 
+par -w -intstyle ise -ol high -t 1 decoder3x8_map.ncd decoder3x8.ncd decoder3x8.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml decoder3x8.twx decoder3x8.ncd -o decoder3x8.twr decoder3x8.pcf 
+xst -intstyle ise -ifn "C:/Users/Arshia/Desktop/nik/decoder3x8/decoder3x8.xst" -ofn "C:/Users/Arshia/Desktop/nik/decoder3x8/decoder3x8.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s400-pq208-4 decoder3x8.ngc decoder3x8.ngd  
+map -intstyle ise -p xc3s400-pq208-4 -cm area -ir off -pr off -c 100 -o decoder3x8_map.ncd decoder3x8.ngd decoder3x8.pcf 
+par -w -intstyle ise -ol high -t 1 decoder3x8_map.ncd decoder3x8.ncd decoder3x8.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml decoder3x8.twx decoder3x8.ncd -o decoder3x8.twr decoder3x8.pcf 
+xst -intstyle ise -ifn "C:/Users/Arshia/Desktop/nik/decoder3x8/decoder3x8.xst" -ofn "C:/Users/Arshia/Desktop/nik/decoder3x8/decoder3x8.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s400-pq208-4 decoder3x8.ngc decoder3x8.ngd  
+map -intstyle ise -p xc3s400-pq208-4 -cm area -ir off -pr off -c 100 -o decoder3x8_map.ncd decoder3x8.ngd decoder3x8.pcf 
+par -w -intstyle ise -ol high -t 1 decoder3x8_map.ncd decoder3x8.ncd decoder3x8.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml decoder3x8.twx decoder3x8.ncd -o decoder3x8.twr decoder3x8.pcf 

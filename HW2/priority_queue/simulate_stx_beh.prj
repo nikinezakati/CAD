@@ -1,0 +1,2 @@
+vhdl isim_temp "priority_queue.vhd"
+vhdl isim_temp "simulate.vhd"

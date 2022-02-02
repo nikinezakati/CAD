@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "Z:/Desktop/CAD/HW3/Q1/DiceGame.xst" -ofn "Z:/Desktop/CAD/HW3/Q1/DiceGame.syr" 

@@ -1,0 +1,3 @@
+vhdl isim_temp "game_test.vhd"
+vhdl isim_temp "dice_game.vhd"
+vhdl isim_temp "tester.vhd"

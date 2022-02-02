@@ -1,0 +1,30 @@
+Command line:
+   simulate_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  55019
+
+Wed Jan 26 12:10:01 2022
+
+
+ Elaboration Time: 0.078125 sec
+
+ Current Memory Usage: 5153.8 Meg
+
+ Total Signals          : 134
+ Total Nets             : 1393
+ Total Signal Drivers   : 117
+ Total Blocks           : 10
+ Total Primitive Blocks : 8
+ Total Processes        : 110
+ Total Traceable Variables  : 15
+ Total Scalar Nets and Variables : 1878
+In process Radix10.vhd:54 
+ Right operand of ** is not a natural value.
+
+ Total Simulation Time: 0.09375 sec
+
+ Current Memory Usage: 4996.52 Meg
+
+Wed Jan 26 12:11:27 2022
+

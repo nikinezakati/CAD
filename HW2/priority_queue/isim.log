@@ -1,0 +1,13 @@
+ISim log file
+Running: Z:\Desktop\CAD\HW2\Q2\simulate_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb Z:/Desktop/CAD/HW2/Q2/simulate_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+# isim force add /simulate/deq 00000000 -radix bin
+# run all
+Stopped at time : 367175240 ns : File "//Mac/Home/Desktop/CAD/HW2/Q2/simulate.vhd" Line 72

@@ -1,0 +1,3 @@
+vhdl work "game_test.vhd"
+vhdl work "dice_game.vhd"
+vhdl work "tester.vhd"

@@ -1,0 +1,6 @@
+vhdl isim_temp "valid_array.vhd"
+vhdl isim_temp "mux.vhd"
+vhdl isim_temp "miss_hit.vhd"
+vhdl isim_temp "lru_array.vhd"
+vhdl isim_temp "data_array.vhd"
+vhdl isim_temp "cache.vhd"

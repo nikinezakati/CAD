@@ -1,0 +1,2 @@
+vhdl work "MagicMatrix.vhd"
+vhdl work "simulate.vhd"

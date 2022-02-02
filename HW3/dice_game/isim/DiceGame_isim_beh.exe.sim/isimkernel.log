@@ -1,0 +1,28 @@
+Command line:
+   DiceGame_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  50130
+
+Fri Dec 17 16:14:34 2021
+
+
+ Elaboration Time: 0.046875 sec
+
+ Current Memory Usage: 5154.42 Meg
+
+ Total Signals          : 11
+ Total Nets             : 11
+ Total Signal Drivers   : 7
+ Total Blocks           : 5
+ Total Primitive Blocks : 5
+ Total Processes        : 2
+ Total Traceable Variables  : 15
+ Total Scalar Nets and Variables : 512
+
+ Total Simulation Time: 0.046875 sec
+
+ Current Memory Usage: 5469 Meg
+
+Fri Dec 17 16:15:08 2021
+

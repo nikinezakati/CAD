@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "Z:/Desktop/CAD/HW3/Q1/DiceGame_isim_beh.exe" -prj "Z:/Desktop/CAD/HW3/Q1/DiceGame_beh.prj" "work.DiceGame" 

@@ -1,0 +1,5 @@
+V3 3
+EN work/DiceGame 0 FL //mac/home/Desktop/CAD/HW3/Q1/dice_game.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/DiceGame/DiceBehave 0 \
+      FL //mac/home/Desktop/CAD/HW3/Q1/dice_game.vhd EN work/DiceGame 0

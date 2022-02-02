@@ -1,0 +1,7 @@
+work	"Division.vhd"
+work	"Fixed.vhd"
+work	"Radix10.vhd"
+work	"Subtraction.vhd"
+work	"Sum.vhd"
+work	"co_processor.vhd"
+work	"multiplier.vhd"

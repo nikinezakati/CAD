@@ -1,0 +1,32 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o Z:/Desktop/CAD/Project/Processor/simulate_isim_beh.exe -prj Z:/Desktop/CAD/Project/Processor/simulate_beh.prj work.simulate 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 2
+Turning on mult-threading, number of parallel sub-compilation jobs: 4 
+Determining compilation order of HDL files
+Parsing VHDL file "Z:/Desktop/CAD/Project/Processor/Sum.vhd" into library work
+Parsing VHDL file "Z:/Desktop/CAD/Project/Processor/Subtraction.vhd" into library work
+Parsing VHDL file "Z:/Desktop/CAD/Project/Processor/Radix10.vhd" into library work
+Parsing VHDL file "Z:/Desktop/CAD/Project/Processor/multiplier.vhd" into library work
+Parsing VHDL file "Z:/Desktop/CAD/Project/Processor/Fixed.vhd" into library work
+Parsing VHDL file "Z:/Desktop/CAD/Project/Processor/Division.vhd" into library work
+Parsing VHDL file "Z:/Desktop/CAD/Project/Processor/co_processor.vhd" into library work
+Parsing VHDL file "Z:/Desktop/CAD/Project/Processor/simulate.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package numeric_std
+Compiling architecture behavioral of entity Sum [sum_default]
+Compiling architecture behavioral of entity Subtraction [subtraction_default]
+Compiling architecture behavioral of entity multiplier [multiplier_default]
+Compiling architecture behavioral of entity Division [division_default]
+Compiling architecture behavioral of entity Fixed [fixed_default]
+Compiling architecture behavioral of entity Radix10 [radix10_default]
+Compiling architecture behavioral of entity co_processor [co_processor_default]
+Compiling architecture behavior of entity simulate
+Time Resolution for simulation is 1ps.
+Waiting for 7 sub-compilation(s) to finish...
+Compiled 18 VHDL Units
+Built simulation executable Z:/Desktop/CAD/Project/Processor/simulate_isim_beh.exe
+Fuse Memory Usage: 37496 KB
+Fuse CPU Usage: 483 ms

@@ -1,0 +1,4 @@
+xst -intstyle ise -ifn "Z:/Desktop/CAD/gray_code/gray_code.xst" -ofn "Z:/Desktop/CAD/gray_code/gray_code.syr" 
+xst -intstyle ise -ifn "Z:/Desktop/CAD/gray_code/gray_code.xst" -ofn "Z:/Desktop/CAD/gray_code/gray_code.syr" 
+xst -intstyle ise -ifn "Z:/Desktop/CAD/gray_code/gray_code.xst" -ofn "Z:/Desktop/CAD/gray_code/gray_code.syr" 
+xst -intstyle ise -ifn "Z:/Desktop/CAD/gray_code/gray_code.xst" -ofn "Z:/Desktop/CAD/gray_code/gray_code.syr" 

@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "Z:/Desktop/CAD/HW4/Generator/test_isim_beh.exe" -prj "Z:/Desktop/CAD/HW4/Generator/test_beh.prj" "work.test" 

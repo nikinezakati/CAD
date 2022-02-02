@@ -1,0 +1,8 @@
+vhdl work "Sum.vhd"
+vhdl work "Subtraction.vhd"
+vhdl work "Radix10.vhd"
+vhdl work "multiplier.vhd"
+vhdl work "Fixed.vhd"
+vhdl work "Division.vhd"
+vhdl work "co_processor.vhd"
+vhdl work "simulate.vhd"

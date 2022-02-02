@@ -1,0 +1,2 @@
+vhdl isim_temp "signal_generator.vhd"
+vhdl isim_temp "test.vhd"
